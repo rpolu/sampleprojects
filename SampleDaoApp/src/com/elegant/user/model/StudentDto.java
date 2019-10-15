@@ -1,5 +1,4 @@
 package com.elegant.user.model;
-
 public class StudentDto {
 
 	private int rollNum;
@@ -38,5 +37,4 @@ public class StudentDto {
 	public void setAddress(String address) {
 		this.address = address;
 	}
-
 }
